@@ -18,7 +18,7 @@ export class ShippingLogisticsChartComponent implements OnInit {
         datasets: [
           {
             label: "# of weights",
-            data: [12, 19, 3, 5, 2, 3],
+            data: [0, 100, 200, 150, 200, 100, 200],
             borderWidth: 1,
           },
         ],
