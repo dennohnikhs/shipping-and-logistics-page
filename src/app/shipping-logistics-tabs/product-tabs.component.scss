@@ -1,0 +1,16 @@
+// .cb {
+//   list-style: none;
+//   padding: 10px;
+//   display: inline-block;
+//   background-color: #000;
+//   color: #fff;
+//   border: 1px solid black;
+//   border-radius: 5px;
+// }
+.cb:hover {
+  background-color: #4a4a4a;
+  color: #fff;
+}
+.tabs h1.active-tab {
+  border-bottom: 3px solid rgb(100, 181, 246);
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Iphone 6 Plus",
+    "sku": "356746456hhd",
+    "date": "2/19/21",
+    "price": "$500.00",
+    "quantity": "256",
+    "image": "https://placebear.com/640/360"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S21",
+    "sku": "654asd8790",
+    "date": "3/15/21",
+    "price": "$700.00",
+    "quantity": "128",
+    "image": "https://placebear.com/640/360"
+  },
+  {
+    "id": "3",
+    "name": "Google Pixel 5",
+    "sku": "890dfg4532",
+    "date": "4/10/21",
+    "price": "$600.00",
+    "quantity": "192",
+    "image": "https://placebear.com/640/360"
+  }
+]
