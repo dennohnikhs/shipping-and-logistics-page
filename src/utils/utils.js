@@ -1,11 +1,5 @@
-angular.module("myApp", []).controller("TabController", function () {
-  this.activeTab = "overview";
-
-  this.setTab = function (tabName) {
-    this.activeTab = tabName;
-  };
-
-  this.isTabActive = function (tabName) {
-    return this.activeTab === tabName;
-  };
-});
+const dummyData = Array.from({ length: 30 }, (_, i) => ({
+  dateShipped: `${i + 1}/12`,
+  weight: (i + 1) * 100,
+}));
+export default dummyData;
